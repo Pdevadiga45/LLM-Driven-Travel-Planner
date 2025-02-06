@@ -46,10 +46,10 @@ You: I want to go to Paris next month
 Bot: Great choice! When would you like to travel?...
 
 
-#Limitations & Future Work 🔮
+##Limitations & Future Work 🔮
 
 
-##Current limitations:
+**Current limitations:**
 
 Limited hotel API response handling
 
@@ -59,7 +59,7 @@ Basic date parsing implementation
 
 Single traveler focus
 
-##Planned improvements:
+**Planned improvements:**
 
 🧳 Multi-city trip support
 
