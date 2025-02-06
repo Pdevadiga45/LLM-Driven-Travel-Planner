@@ -48,26 +48,17 @@ You: I want to go to Paris next month
 
 Bot: Great choice! When would you like to travel?...
 
+## Limitations & Future Work 🔮  
 
-## Limitations & Future Work 🔮
+### **Current Limitations**  
+- ⚠️ Limited handling of hotel API responses  
+- 🧠 LLM-based information extraction may be inaccurate or inconsistent in some cases  
+- 📆 Basic date parsing implementation  
+- 👤 Focused only on single travelers  
 
+### **Planned Improvements**  
+- 🧳 Support for multi-city trips  
+- 💸 Advanced budget optimization  
+- 🌍 Local attraction recommendations  
+- 📅 Calendar integration  
 
-**Current limitations:**
-
-Limited hotel API response handling
-
-information extraction by LLM may not always produce accurate or consistent results
-
-Basic date parsing implementation
-
-Single traveler focus
-
-**Planned improvements:**
-
-🧳 Multi-city trip support
-
-💸 Advanced budget optimization
-
-🌍 Local attraction recommendations
-
-📅 Calendar integration
