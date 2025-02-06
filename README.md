@@ -5,7 +5,7 @@ An intelligent travel assistant powered by Large Language Models (LLMs) that hel
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Travel Planner Demo](https://via.placeholder.com/800x400.png?text=Travel+Planner+Demo+Interaction)
+
 
 ## Key Features 🌟
 
@@ -52,6 +52,8 @@ Bot: Great choice! When would you like to travel?...
 ##Current limitations:
 
 Limited hotel API response handling
+
+information extraction by LLM may not always produce accurate or consistent results
 
 Basic date parsing implementation
 
