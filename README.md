@@ -41,8 +41,11 @@ cd llm-travel-planner
 jupyter notebook travel.ipynb
 
 ### Example interaction:
+
 Bot: Hi! I'm your travel assistant. How can I help you today?
+
 You: I want to go to Paris next month
+
 Bot: Great choice! When would you like to travel?...
 
 
